@@ -1,4 +1,4 @@
-module github.com/WORD559/mobile
+module golang.org/x/mobile
 
 go 1.11
 
